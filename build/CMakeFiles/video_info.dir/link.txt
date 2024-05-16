@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/video_info.dir/src/main.cpp.o -o video_info  -lavformat -lavcodec -lavutil 
