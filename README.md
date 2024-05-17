@@ -11,7 +11,7 @@
 Инструкция по сборке и использованию:
 1. Скопировать репозиторий на локальную машину, указав команду: git clone https://github.com/Sergey-Sitnikov/FFMPEG_Project.git
 2. Перейти в корневую папку программы и выполнить следующие команды:
-    mkdir build
+    mkdir build /n
     cd build
     cmake ..
     make
